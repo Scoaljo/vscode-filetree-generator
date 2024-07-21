@@ -1,0 +1,25 @@
+{
+  "name": "vscode-filetree-generator",
+  "version": "1.0.3",
+  "description": "Generate a file tree for your project",
+  "main": "index.js",
+  "bin": {
+    "generate-filetree": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file-tree",
+    "generator",
+    "cli"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
