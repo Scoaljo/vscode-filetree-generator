@@ -13,10 +13,8 @@ npm install -g vscode-filetree-generator
 Or install directly from GitHub:
 
 ```
-npm install -g https://github.com/YOUR-USERNAME/vscode-filetree-generator.git
+npm install -g https://github.com/scoaljo/vscode-filetree-generator.git
 ```
-
-Replace `YOUR-USERNAME` with your actual GitHub username.
 
 ## Usage
 
