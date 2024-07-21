@@ -10,6 +10,14 @@ You can install this package globally using npm:
 npm install -g vscode-filetree-generator
 ```
 
+Or install directly from GitHub:
+
+```
+npm install -g https://github.com/YOUR-USERNAME/vscode-filetree-generator.git
+```
+
+Replace `YOUR-USERNAME` with your actual GitHub username.
+
 ## Usage
 
 After installation, you can use the tool by navigating to your project directory in the terminal and running:
@@ -24,12 +32,10 @@ This will create a `file-tree.txt` file in your current directory, containing th
 
 - Node.js 12.0.0 or higher
 
-## Known Issues
+## Contributing
 
-Please report any issues on the GitHub repository.
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Release Notes
+## License
 
-### 1.0.2
-
-Converted from VSCode extension to CLI tool.
+This project is licensed under the MIT License.
